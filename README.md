@@ -1,2 +1,2 @@
-# astroweb
+# Astroweb
 Creating a Blog With Astro
